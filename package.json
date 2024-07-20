@@ -1,0 +1,29 @@
+{
+  "name": "vbot",
+  "version": "1.0.0",
+  "description": "Ordinals and Runes bot",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmsobral/vbot.git"
+  },
+  "keywords": [
+    "ordinals",
+    "runes",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmsobral/vbot/issues"
+  },
+  "homepage": "https://github.com/vmsobral/vbot#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
